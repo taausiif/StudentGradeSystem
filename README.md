@@ -44,7 +44,7 @@ src/main/java/com.student.studentgradesystem
 ## 🚀 How to Run
 
 1. Clone the repository
-   git clone https://github.com/YourUsername/StudentGradeSystem.git
+   git clone https://github.com/taausiif/StudentGradeSystem.git
 2. Open in **IntelliJ IDEA**
 3. Run `Launcher.java`
 4. Login with:
